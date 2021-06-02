@@ -1,0 +1,42 @@
+/* body {
+  font-family: "Quicksand", sans-serif;
+}
+nav {
+  background-color: #508264;
+}
+.nav-link {
+  color: white;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 2px;
+}
+
+.jumbotron {
+  padding: 2remm 1 remm;
+  background-image: url("assets/images/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #0c1710;
+}
+@media (max-width: 768px) {
+  .jumbotron {
+    padding: 2remm 1 remm;
+    background-image: url("assets/images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #0c1710;
+  }
+}
+
+@media (min-width: 769px) {
+  .jumbotron {
+    padding: 2remm 1 remm;
+    background-color: #cdffe1;
+    color: #0c1710;
+  }
+}
+.social-media a {
+  color: #0c1710;
+  margin-left: 10px;
+} */
